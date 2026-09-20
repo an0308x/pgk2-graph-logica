@@ -1,0 +1,191 @@
+{
+  "protocol": "pgk2_substrate_preparation_v1",
+  "manifest_sha256": "10eb32cf64b5a556609a781ab55f260834aa936fea28adf129df7948b0809c7a",
+  "coverage": {
+    "train": {
+      "molecules": 6026213,
+      "duplicate_source_molecules": 135268,
+      "inhibitor_nonzero": 20208,
+      "inhibitor_zero_uncertain": 6006005,
+      "ntc_selection_nonzero": 3743,
+      "ntc_supplement_nonzero": 5922,
+      "any_ntc_nonzero": 5932,
+      "both_controls_nonzero": 1695,
+      "historic_nonzero": 33783,
+      "target_le1": 5928254,
+      "target_gt1_lt5": 94319,
+      "target_5_lt10": 2361,
+      "target_10_lt20": 919,
+      "target_ge20": 360,
+      "T5_target_support": 3640,
+      "T5_observed_competition": 754,
+      "T5_observed_ntc": 227,
+      "T5_tenfold_competition_nonzero": 97,
+      "T5_zero_inhibitor": 2886,
+      "T5_background_or_history_flag": 3188,
+      "T5_joint_nonzero_inhibitor": 7,
+      "T5_joint_zero_inhibitor_uncertain": 441,
+      "T5_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T5_competition_retained_observed": 318,
+      "T10_target_support": 1279,
+      "T10_observed_competition": 310,
+      "T10_observed_ntc": 109,
+      "T10_tenfold_competition_nonzero": 77,
+      "T10_zero_inhibitor": 969,
+      "T10_background_or_history_flag": 1260,
+      "T10_joint_nonzero_inhibitor": 1,
+      "T10_joint_zero_inhibitor_uncertain": 18,
+      "T10_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T10_competition_retained_observed": 139,
+      "T20_target_support": 360,
+      "T20_observed_competition": 112,
+      "T20_observed_ntc": 37,
+      "T20_tenfold_competition_nonzero": 35,
+      "T20_zero_inhibitor": 248,
+      "T20_background_or_history_flag": 360,
+      "T20_joint_nonzero_inhibitor": 0,
+      "T20_joint_zero_inhibitor_uncertain": 0,
+      "T20_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T20_competition_retained_observed": 49,
+      "legacy_cap5_any_confidence": 27327,
+      "legacy_cap5_channel_0": 23094,
+      "legacy_cap5_channel_1": 3743,
+      "legacy_cap5_channel_2": 5922
+    },
+    "dev": {
+      "molecules": 732325,
+      "duplicate_source_molecules": 16781,
+      "inhibitor_nonzero": 2433,
+      "inhibitor_zero_uncertain": 729892,
+      "ntc_selection_nonzero": 449,
+      "ntc_supplement_nonzero": 725,
+      "any_ntc_nonzero": 726,
+      "both_controls_nonzero": 192,
+      "historic_nonzero": 4222,
+      "target_le1": 720807,
+      "target_gt1_lt5": 11159,
+      "target_5_lt10": 244,
+      "target_10_lt20": 77,
+      "target_ge20": 38,
+      "T5_target_support": 359,
+      "T5_observed_competition": 74,
+      "T5_observed_ntc": 22,
+      "T5_tenfold_competition_nonzero": 2,
+      "T5_zero_inhibitor": 285,
+      "T5_background_or_history_flag": 306,
+      "T5_joint_nonzero_inhibitor": 0,
+      "T5_joint_zero_inhibitor_uncertain": 52,
+      "T5_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T5_competition_retained_observed": 38,
+      "T10_target_support": 115,
+      "T10_observed_competition": 34,
+      "T10_observed_ntc": 10,
+      "T10_tenfold_competition_nonzero": 2,
+      "T10_zero_inhibitor": 81,
+      "T10_background_or_history_flag": 112,
+      "T10_joint_nonzero_inhibitor": 0,
+      "T10_joint_zero_inhibitor_uncertain": 3,
+      "T10_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T10_competition_retained_observed": 27,
+      "T20_target_support": 38,
+      "T20_observed_competition": 15,
+      "T20_observed_ntc": 3,
+      "T20_tenfold_competition_nonzero": 0,
+      "T20_zero_inhibitor": 23,
+      "T20_background_or_history_flag": 38,
+      "T20_joint_nonzero_inhibitor": 0,
+      "T20_joint_zero_inhibitor_uncertain": 0,
+      "T20_joint_nonzero_inhibitor_and_observed_ntc": 0,
+      "T20_competition_retained_observed": 13,
+      "legacy_cap5_any_confidence": 3252,
+      "legacy_cap5_channel_0": 2718,
+      "legacy_cap5_channel_1": 449,
+      "legacy_cap5_channel_2": 725
+    }
+  },
+  "holdout_inventory_only": 729029,
+  "panel_coverage": {
+    "train_evidence_panel": {
+      "all": {
+        "molecules": 27327,
+        "scaffolds": 19055
+      },
+      "nonzero_inhibitor_joint_proxy": {
+        "molecules": 7,
+        "scaffolds": 7
+      },
+      "zero_inhibitor_joint_uncertain": {
+        "molecules": 441,
+        "scaffolds": 259
+      },
+      "observed_competition_retained": {
+        "molecules": 318,
+        "scaffolds": 214
+      },
+      "target_ge5": {
+        "molecules": 3640,
+        "scaffolds": 1837
+      }
+    },
+    "development_evidence_panel": {
+      "all": {
+        "molecules": 3252,
+        "scaffolds": 2388
+      },
+      "nonzero_inhibitor_joint_proxy": {
+        "molecules": 0,
+        "scaffolds": 0
+      },
+      "zero_inhibitor_joint_uncertain": {
+        "molecules": 52,
+        "scaffolds": 31
+      },
+      "observed_competition_retained": {
+        "molecules": 38,
+        "scaffolds": 24
+      },
+      "target_ge5": {
+        "molecules": 359,
+        "scaffolds": 245
+      }
+    },
+    "development_transfer_stress": {
+      "all": {
+        "molecules": 9,
+        "scaffolds": 9
+      },
+      "nonzero_inhibitor_joint_proxy": {
+        "molecules": 0,
+        "scaffolds": 0
+      },
+      "zero_inhibitor_joint_uncertain": {
+        "molecules": 0,
+        "scaffolds": 0
+      },
+      "observed_competition_retained": {
+        "molecules": 0,
+        "scaffolds": 0
+      },
+      "target_ge5": {
+        "molecules": 1,
+        "scaffolds": 1
+      }
+    }
+  },
+  "nearest_neighbor_reference_count": 27327,
+  "evidence_panel_sha256": "d8e3495bc3e542d86b57bb2288537150c991e97dda110921d2ac0d63970e846c",
+  "source_sha256": "1a3c75fc1b1332e1d9a8e521da976073411368de081aa9defb3a707adb5ed24b",
+  "elapsed_seconds": 29.759172273334116,
+  "training_launched": false,
+  "labels_changed": false,
+  "holdout_labels_evaluated": false,
+  "limitations": [
+    "Mean counts reuse historical aggregation; duplicate source rows are not independent replicates.",
+    "Cross-arm tenfold ratios are descriptive heuristics, not depth-calibrated enrichment or inhibition labels.",
+    "Inhibitor or NTC zero is uncertain; absence of a historical-hit flag does not establish specificity.",
+    "Missing inhibitor-arm-only rows prevent reconstruction of complete inhibitor depth.",
+    "The evidence panel is an audit subset, not a replacement training universe.",
+    "Stress similarity is against all legacy cap5 ranking-eligible training molecules, not the entire 6M pool.",
+    "Existing development was previously used for model selection; the stress subgroup is not an untouched holdout."
+  ]
+}

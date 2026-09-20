@@ -1,0 +1,26 @@
+# Data, models, generated graph stores, scores and other non-review artifacts
+data/
+models/
+artifacts/
+outputs/
+*.pt
+*.ckpt
+*.npz
+*.parquet
+*.zip
+*.csv
+*.tsv
+*.pkl
+*.joblib
+*.npy
+*.safetensors
+
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# The compact JSON provenance included in this snapshot is intentionally kept.
+!provenance/**/*.json

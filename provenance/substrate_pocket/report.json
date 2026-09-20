@@ -1,0 +1,54 @@
+{
+  "substrate_direct": 43,
+  "substrate_context": 78,
+  "common_context": 90,
+  "ATP_direct": 32,
+  "3PG_direct": 11,
+  "historical_direct": 26,
+  "shared_direct": 23,
+  "added_human_residues_1_based": [
+    24,
+    26,
+    63,
+    65,
+    123,
+    129,
+    167,
+    168,
+    170,
+    171,
+    173,
+    219,
+    220,
+    337,
+    372,
+    373,
+    374,
+    376,
+    396,
+    400
+  ],
+  "removed_human_residues_1_based": [
+    255,
+    256,
+    345
+  ],
+  "human_geometry_coverage": {
+    "21": {
+      "sha256": "1b3edde3e6b54c13b0ea639d1b48a69c025ca7f9840315e78dfb408b875cbebc",
+      "chain": "A",
+      "covered_context_residues": 90,
+      "missing": [],
+      "sequence_mismatches": []
+    },
+    "47": {
+      "sha256": "96d77e29a16ae77558fda3e0ef9552a0d2f05bbbeb89258bdec19dab38a353ad",
+      "chain": "A",
+      "covered_context_residues": 90,
+      "missing": [],
+      "sequence_mismatches": []
+    }
+  },
+  "training_launched": false,
+  "distinction": "Direct mask is inhibitor-independent. Matched comparison geometry/context are not inhibitor-structure-independent."
+}

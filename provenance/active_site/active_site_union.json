@@ -1,0 +1,343 @@
+{
+  "references": {
+    "ATP_ADP": "CACHE hPGK2\u2013compound-47 co-crystal; compound 47 occupies the adenine/ATP pocket.",
+    "3PG": "RCSB 2PAA, mPGK2 bound to 3-PG; residues mapped by global sequence alignment to human PGK2 P07205."
+  },
+  "pocket_definition": "Union of human ATP/ADP-pocket contacts and mouse 3-PG-pocket contacts, each within cutoff of ligand heavy atoms.",
+  "cutoff_angstrom": 6.0,
+  "mouse_pgk2_sequence_length": 416,
+  "human_pgk2_sequence_length": 417,
+  "subsites": {
+    "ATP_ADP": [
+      {
+        "human_author_residue": 213,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 5.496,
+        "human_index_0_based": 212,
+        "human_residue_number_1_based": 213,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 214,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.752,
+        "human_index_0_based": 213,
+        "human_residue_number_1_based": 214,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 215,
+        "human_reference_residue": "ALA",
+        "minimum_heavy_atom_distance_angstrom": 3.081,
+        "human_index_0_based": 214,
+        "human_residue_number_1_based": 215,
+        "human_residue": "A"
+      },
+      {
+        "human_author_residue": 216,
+        "human_reference_residue": "LYS",
+        "minimum_heavy_atom_distance_angstrom": 3.228,
+        "human_index_0_based": 215,
+        "human_residue_number_1_based": 216,
+        "human_residue": "K"
+      },
+      {
+        "human_author_residue": 237,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 5.828,
+        "human_index_0_based": 236,
+        "human_residue_number_1_based": 237,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 238,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.448,
+        "human_index_0_based": 237,
+        "human_residue_number_1_based": 238,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 239,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.276,
+        "human_index_0_based": 238,
+        "human_residue_number_1_based": 239,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 240,
+        "human_reference_residue": "MET",
+        "minimum_heavy_atom_distance_angstrom": 5.934,
+        "human_index_0_based": 239,
+        "human_residue_number_1_based": 240,
+        "human_residue": "M"
+      },
+      {
+        "human_author_residue": 242,
+        "human_reference_residue": "TYR",
+        "minimum_heavy_atom_distance_angstrom": 2.822,
+        "human_index_0_based": 241,
+        "human_residue_number_1_based": 242,
+        "human_residue": "Y"
+      },
+      {
+        "human_author_residue": 255,
+        "human_reference_residue": "ALA",
+        "minimum_heavy_atom_distance_angstrom": 3.029,
+        "human_index_0_based": 254,
+        "human_residue_number_1_based": 255,
+        "human_residue": "A"
+      },
+      {
+        "human_author_residue": 256,
+        "human_reference_residue": "SER",
+        "minimum_heavy_atom_distance_angstrom": 4.448,
+        "human_index_0_based": 255,
+        "human_residue_number_1_based": 256,
+        "human_residue": "S"
+      },
+      {
+        "human_author_residue": 257,
+        "human_reference_residue": "LEU",
+        "minimum_heavy_atom_distance_angstrom": 3.19,
+        "human_index_0_based": 256,
+        "human_residue_number_1_based": 257,
+        "human_residue": "L"
+      },
+      {
+        "human_author_residue": 292,
+        "human_reference_residue": "PHE",
+        "minimum_heavy_atom_distance_angstrom": 3.319,
+        "human_index_0_based": 291,
+        "human_residue_number_1_based": 292,
+        "human_residue": "F"
+      },
+      {
+        "human_author_residue": 312,
+        "human_reference_residue": "MET",
+        "minimum_heavy_atom_distance_angstrom": 3.555,
+        "human_index_0_based": 311,
+        "human_residue_number_1_based": 312,
+        "human_residue": "M"
+      },
+      {
+        "human_author_residue": 313,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.195,
+        "human_index_0_based": 312,
+        "human_residue_number_1_based": 313,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 314,
+        "human_reference_residue": "LEU",
+        "minimum_heavy_atom_distance_angstrom": 3.475,
+        "human_index_0_based": 313,
+        "human_residue_number_1_based": 314,
+        "human_residue": "L"
+      },
+      {
+        "human_author_residue": 315,
+        "human_reference_residue": "ASP",
+        "minimum_heavy_atom_distance_angstrom": 4.102,
+        "human_index_0_based": 314,
+        "human_residue_number_1_based": 315,
+        "human_residue": "D"
+      },
+      {
+        "human_author_residue": 339,
+        "human_reference_residue": "PRO",
+        "minimum_heavy_atom_distance_angstrom": 3.636,
+        "human_index_0_based": 338,
+        "human_residue_number_1_based": 339,
+        "human_residue": "P"
+      },
+      {
+        "human_author_residue": 340,
+        "human_reference_residue": "LEU",
+        "minimum_heavy_atom_distance_angstrom": 3.607,
+        "human_index_0_based": 339,
+        "human_residue_number_1_based": 340,
+        "human_residue": "L"
+      },
+      {
+        "human_author_residue": 341,
+        "human_reference_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.342,
+        "human_index_0_based": 340,
+        "human_residue_number_1_based": 341,
+        "human_residue": "G"
+      },
+      {
+        "human_author_residue": 342,
+        "human_reference_residue": "VAL",
+        "minimum_heavy_atom_distance_angstrom": 3.562,
+        "human_index_0_based": 341,
+        "human_residue_number_1_based": 342,
+        "human_residue": "V"
+      },
+      {
+        "human_author_residue": 343,
+        "human_reference_residue": "PHE",
+        "minimum_heavy_atom_distance_angstrom": 3.321,
+        "human_index_0_based": 342,
+        "human_residue_number_1_based": 343,
+        "human_residue": "F"
+      },
+      {
+        "human_author_residue": 344,
+        "human_reference_residue": "GLU",
+        "minimum_heavy_atom_distance_angstrom": 3.125,
+        "human_index_0_based": 343,
+        "human_residue_number_1_based": 344,
+        "human_residue": "E"
+      },
+      {
+        "human_author_residue": 345,
+        "human_reference_residue": "TRP",
+        "minimum_heavy_atom_distance_angstrom": 5.071,
+        "human_index_0_based": 344,
+        "human_residue_number_1_based": 345,
+        "human_residue": "W"
+      },
+      {
+        "human_author_residue": 375,
+        "human_reference_residue": "ASP",
+        "minimum_heavy_atom_distance_angstrom": 3.414,
+        "human_index_0_based": 374,
+        "human_residue_number_1_based": 375,
+        "human_residue": "D"
+      }
+    ],
+    "3PG": [
+      {
+        "mouse_author_residue": 23,
+        "mouse_residue": "ASP",
+        "minimum_heavy_atom_distance_angstrom": 5.015,
+        "human_index_0_based": 23,
+        "human_residue_number_1_based": 24,
+        "human_residue": "D"
+      },
+      {
+        "mouse_author_residue": 25,
+        "mouse_residue": "ASN",
+        "minimum_heavy_atom_distance_angstrom": 3.715,
+        "human_index_0_based": 25,
+        "human_residue_number_1_based": 26,
+        "human_residue": "N"
+      },
+      {
+        "mouse_author_residue": 62,
+        "mouse_residue": "HIS",
+        "minimum_heavy_atom_distance_angstrom": 3.14,
+        "human_index_0_based": 62,
+        "human_residue_number_1_based": 63,
+        "human_residue": "H"
+      },
+      {
+        "mouse_author_residue": 64,
+        "mouse_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 5.262,
+        "human_index_0_based": 64,
+        "human_residue_number_1_based": 65,
+        "human_residue": "G"
+      },
+      {
+        "mouse_author_residue": 122,
+        "mouse_residue": "ARG",
+        "minimum_heavy_atom_distance_angstrom": 2.535,
+        "human_index_0_based": 122,
+        "human_residue_number_1_based": 123,
+        "human_residue": "R"
+      },
+      {
+        "mouse_author_residue": 128,
+        "mouse_residue": "GLU",
+        "minimum_heavy_atom_distance_angstrom": 4.307,
+        "human_index_0_based": 128,
+        "human_residue_number_1_based": 129,
+        "human_residue": "E"
+      },
+      {
+        "mouse_author_residue": 166,
+        "mouse_residue": "GLY",
+        "minimum_heavy_atom_distance_angstrom": 3.153,
+        "human_index_0_based": 166,
+        "human_residue_number_1_based": 167,
+        "human_residue": "G"
+      },
+      {
+        "mouse_author_residue": 167,
+        "mouse_residue": "THR",
+        "minimum_heavy_atom_distance_angstrom": 3.889,
+        "human_index_0_based": 167,
+        "human_residue_number_1_based": 168,
+        "human_residue": "T"
+      },
+      {
+        "mouse_author_residue": 169,
+        "mouse_residue": "HIS",
+        "minimum_heavy_atom_distance_angstrom": 3.706,
+        "human_index_0_based": 169,
+        "human_residue_number_1_based": 170,
+        "human_residue": "H"
+      },
+      {
+        "mouse_author_residue": 170,
+        "mouse_residue": "ARG",
+        "minimum_heavy_atom_distance_angstrom": 2.674,
+        "human_index_0_based": 170,
+        "human_residue_number_1_based": 171,
+        "human_residue": "R"
+      },
+      {
+        "mouse_author_residue": 172,
+        "mouse_residue": "HIS",
+        "minimum_heavy_atom_distance_angstrom": 4.413,
+        "human_index_0_based": 172,
+        "human_residue_number_1_based": 173,
+        "human_residue": "H"
+      }
+    ]
+  },
+  "human_active_site_union_indices_0_based": [
+    23,
+    25,
+    62,
+    64,
+    122,
+    128,
+    166,
+    167,
+    169,
+    170,
+    172,
+    212,
+    213,
+    214,
+    215,
+    236,
+    237,
+    238,
+    239,
+    241,
+    254,
+    255,
+    256,
+    291,
+    311,
+    312,
+    313,
+    314,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    374
+  ],
+  "human_active_site_union_count": 36
+}

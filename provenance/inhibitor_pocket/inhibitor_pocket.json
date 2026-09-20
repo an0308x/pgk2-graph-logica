@@ -1,0 +1,2267 @@
+{
+  "definition": "Known orthosteric-inhibitor envelope from human PGK2 compounds 21 and 47",
+  "direct_ligand_edges": {
+    "cutoff_angstrom": 6.0,
+    "residue_indices_0_based": [
+      212,
+      213,
+      214,
+      215,
+      236,
+      237,
+      238,
+      239,
+      241,
+      254,
+      255,
+      256,
+      291,
+      311,
+      312,
+      313,
+      314,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      374
+    ],
+    "residue_numbers_1_based": [
+      213,
+      214,
+      215,
+      216,
+      237,
+      238,
+      239,
+      240,
+      242,
+      255,
+      256,
+      257,
+      292,
+      312,
+      313,
+      314,
+      315,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      375
+    ],
+    "residue_count": 26,
+    "structures": [
+      {
+        "structure": "PGK2_cmp21.pdb",
+        "copies": [
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 20,
+            "contacts": [
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.722
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.45
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.907
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.42
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.252
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.543
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.425
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.553
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.228
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.682
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.516
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.327
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.634
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 5.178
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.19
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.429
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.675
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.955
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.719
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.463
+              }
+            ]
+          },
+          {
+            "chain": "B",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 22,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.24
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.13
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.657
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.808
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.34
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 3.951
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.861
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.545
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.482
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.254
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.616
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.261
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.694
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.321
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 5.794
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.918
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.108
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.48
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.697
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.373
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.532
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.018
+              }
+            ]
+          },
+          {
+            "chain": "C",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 23,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.269
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.212
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.394
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.546
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.242
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.943
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.068
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 4.003
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.667
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.682
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.472
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.669
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.519
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.653
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.573
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 5.792
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.748
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.04
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.531
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.613
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.512
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.8
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 3.793
+              }
+            ]
+          },
+          {
+            "chain": "D",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 22,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.649
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.416
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.519
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.735
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.203
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.904
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.085
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.706
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.497
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.624
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.381
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.742
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.552
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.493
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.639
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 4.743
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.322
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.585
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.735
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.573
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.7
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.338
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "structure": "PGK2_cmp47.pdb",
+        "copies": [
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": "A",
+            "contact_count": 25,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.562
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.853
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.081
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 5.008
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 5.836
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.458
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.295
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.957
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 2.857
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.081
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.511
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.26
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.319
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.555
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.218
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.475
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.102
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.636
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 3.607
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.342
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.562
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.363
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 3.125
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 5.071
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 3.414
+              }
+            ]
+          },
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": "B",
+            "contact_count": 25,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.496
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.752
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.276
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 3.228
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 5.828
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.448
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.276
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.934
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 2.822
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.029
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.448
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 4.046
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.344
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.56
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.195
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.488
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.112
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.644
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 3.612
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.347
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.611
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.321
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 3.126
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 5.118
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.517
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "protein_context_shell": {
+    "cutoff_angstrom": 8.0,
+    "residue_indices_0_based": [
+      212,
+      213,
+      214,
+      215,
+      216,
+      218,
+      219,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      285,
+      286,
+      288,
+      290,
+      291,
+      292,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      347,
+      348,
+      351,
+      374,
+      375,
+      377,
+      378,
+      381
+    ],
+    "residue_numbers_1_based": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      219,
+      220,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      286,
+      287,
+      289,
+      291,
+      292,
+      293,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      348,
+      349,
+      352,
+      375,
+      376,
+      378,
+      379,
+      382
+    ],
+    "residue_count": 49,
+    "structures": [
+      {
+        "structure": "PGK2_cmp21.pdb",
+        "copies": [
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 40,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 6.095
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.722
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.45
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 6.008
+              },
+              {
+                "residue_number_1_based": 220,
+                "residue_index_0_based": 219,
+                "minimum_heavy_atom_distance_angstrom": 7.169
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 6.455
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.907
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.42
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 6.133
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.479
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.252
+              },
+              {
+                "residue_number_1_based": 253,
+                "residue_index_0_based": 252,
+                "minimum_heavy_atom_distance_angstrom": 7.926
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.543
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.425
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.553
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.971
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.808
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 7.361
+              },
+              {
+                "residue_number_1_based": 289,
+                "residue_index_0_based": 288,
+                "minimum_heavy_atom_distance_angstrom": 7.839
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.653
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.228
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.677
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.24
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.682
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.516
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.327
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.634
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.799
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 7.001
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 5.178
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.19
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.429
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.675
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.955
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.719
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 6.825
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 7.003
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 7.207
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.463
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 7.561
+              }
+            ]
+          },
+          {
+            "chain": "B",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 40,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.24
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.13
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.657
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 6.107
+              },
+              {
+                "residue_number_1_based": 220,
+                "residue_index_0_based": 219,
+                "minimum_heavy_atom_distance_angstrom": 6.987
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 6.421
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.808
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.34
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 6.042
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.132
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 3.951
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.861
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.545
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.482
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.73
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.476
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 7.035
+              },
+              {
+                "residue_number_1_based": 289,
+                "residue_index_0_based": 288,
+                "minimum_heavy_atom_distance_angstrom": 7.894
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.542
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.254
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.695
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.356
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.616
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.261
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.694
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.321
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.525
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 5.794
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.918
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.108
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.48
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.697
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.373
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.532
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 7.002
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 6.831
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 6.997
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.018
+              },
+              {
+                "residue_number_1_based": 376,
+                "residue_index_0_based": 375,
+                "minimum_heavy_atom_distance_angstrom": 7.792
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 6.932
+              }
+            ]
+          },
+          {
+            "chain": "C",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 39,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.269
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.212
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.394
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 6.3
+              },
+              {
+                "residue_number_1_based": 220,
+                "residue_index_0_based": 219,
+                "minimum_heavy_atom_distance_angstrom": 6.693
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 6.138
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.546
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.242
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.943
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.211
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.068
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 4.003
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.667
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.682
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.67
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.724
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 7.164
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.704
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.472
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.867
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.687
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.669
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.519
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.653
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.573
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.771
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 5.792
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.748
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.04
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.531
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.613
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.512
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.8
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 6.923
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 7.031
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 6.867
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 3.793
+              },
+              {
+                "residue_number_1_based": 376,
+                "residue_index_0_based": 375,
+                "minimum_heavy_atom_distance_angstrom": 7.861
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 6.662
+              }
+            ]
+          },
+          {
+            "chain": "D",
+            "ligand_residue": 501,
+            "ligand_altloc": ".",
+            "contact_count": 39,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.649
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.416
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.519
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 6.164
+              },
+              {
+                "residue_number_1_based": 220,
+                "residue_index_0_based": 219,
+                "minimum_heavy_atom_distance_angstrom": 7.865
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 6.428
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.735
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.203
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.904
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.325
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 4.085
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.706
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.497
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.624
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.795
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.745
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 7.319
+              },
+              {
+                "residue_number_1_based": 289,
+                "residue_index_0_based": 288,
+                "minimum_heavy_atom_distance_angstrom": 7.927
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.728
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.381
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.815
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.42
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.742
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.552
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.493
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.639
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.835
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 6.355
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 4.743
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 4.322
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.585
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.735
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.573
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 2.7
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 6.982
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 6.935
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 7.125
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.338
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 7.333
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "structure": "PGK2_cmp47.pdb",
+        "copies": [
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": "A",
+            "contact_count": 46,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.562
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.853
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.081
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 5.008
+              },
+              {
+                "residue_number_1_based": 219,
+                "residue_index_0_based": 218,
+                "minimum_heavy_atom_distance_angstrom": 7.312
+              },
+              {
+                "residue_number_1_based": 220,
+                "residue_index_0_based": 219,
+                "minimum_heavy_atom_distance_angstrom": 7.934
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 5.836
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.458
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.295
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.957
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.076
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 2.857
+              },
+              {
+                "residue_number_1_based": 253,
+                "residue_index_0_based": 252,
+                "minimum_heavy_atom_distance_angstrom": 7.911
+              },
+              {
+                "residue_number_1_based": 254,
+                "residue_index_0_based": 253,
+                "minimum_heavy_atom_distance_angstrom": 7.547
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.081
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.511
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 3.26
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.935
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.169
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 6.623
+              },
+              {
+                "residue_number_1_based": 289,
+                "residue_index_0_based": 288,
+                "minimum_heavy_atom_distance_angstrom": 7.818
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.315
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.319
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.428
+              },
+              {
+                "residue_number_1_based": 310,
+                "residue_index_0_based": 309,
+                "minimum_heavy_atom_distance_angstrom": 7.822
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.101
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.555
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.218
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.475
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.102
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.142
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 6.02
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.636
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 3.607
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.342
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.562
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.363
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 3.125
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 5.071
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 6.878
+              },
+              {
+                "residue_number_1_based": 349,
+                "residue_index_0_based": 348,
+                "minimum_heavy_atom_distance_angstrom": 7.81
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 6.295
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 3.414
+              },
+              {
+                "residue_number_1_based": 378,
+                "residue_index_0_based": 377,
+                "minimum_heavy_atom_distance_angstrom": 7.776
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 7.141
+              },
+              {
+                "residue_number_1_based": 382,
+                "residue_index_0_based": 381,
+                "minimum_heavy_atom_distance_angstrom": 7.05
+              }
+            ]
+          },
+          {
+            "chain": "A",
+            "ligand_residue": 501,
+            "ligand_altloc": "B",
+            "contact_count": 47,
+            "contacts": [
+              {
+                "residue_number_1_based": 213,
+                "residue_index_0_based": 212,
+                "minimum_heavy_atom_distance_angstrom": 5.496
+              },
+              {
+                "residue_number_1_based": 214,
+                "residue_index_0_based": 213,
+                "minimum_heavy_atom_distance_angstrom": 3.752
+              },
+              {
+                "residue_number_1_based": 215,
+                "residue_index_0_based": 214,
+                "minimum_heavy_atom_distance_angstrom": 3.276
+              },
+              {
+                "residue_number_1_based": 216,
+                "residue_index_0_based": 215,
+                "minimum_heavy_atom_distance_angstrom": 3.228
+              },
+              {
+                "residue_number_1_based": 217,
+                "residue_index_0_based": 216,
+                "minimum_heavy_atom_distance_angstrom": 7.76
+              },
+              {
+                "residue_number_1_based": 219,
+                "residue_index_0_based": 218,
+                "minimum_heavy_atom_distance_angstrom": 6.31
+              },
+              {
+                "residue_number_1_based": 237,
+                "residue_index_0_based": 236,
+                "minimum_heavy_atom_distance_angstrom": 5.828
+              },
+              {
+                "residue_number_1_based": 238,
+                "residue_index_0_based": 237,
+                "minimum_heavy_atom_distance_angstrom": 3.448
+              },
+              {
+                "residue_number_1_based": 239,
+                "residue_index_0_based": 238,
+                "minimum_heavy_atom_distance_angstrom": 3.276
+              },
+              {
+                "residue_number_1_based": 240,
+                "residue_index_0_based": 239,
+                "minimum_heavy_atom_distance_angstrom": 5.934
+              },
+              {
+                "residue_number_1_based": 241,
+                "residue_index_0_based": 240,
+                "minimum_heavy_atom_distance_angstrom": 7.044
+              },
+              {
+                "residue_number_1_based": 242,
+                "residue_index_0_based": 241,
+                "minimum_heavy_atom_distance_angstrom": 2.822
+              },
+              {
+                "residue_number_1_based": 253,
+                "residue_index_0_based": 252,
+                "minimum_heavy_atom_distance_angstrom": 7.851
+              },
+              {
+                "residue_number_1_based": 254,
+                "residue_index_0_based": 253,
+                "minimum_heavy_atom_distance_angstrom": 7.497
+              },
+              {
+                "residue_number_1_based": 255,
+                "residue_index_0_based": 254,
+                "minimum_heavy_atom_distance_angstrom": 3.029
+              },
+              {
+                "residue_number_1_based": 256,
+                "residue_index_0_based": 255,
+                "minimum_heavy_atom_distance_angstrom": 4.448
+              },
+              {
+                "residue_number_1_based": 257,
+                "residue_index_0_based": 256,
+                "minimum_heavy_atom_distance_angstrom": 4.046
+              },
+              {
+                "residue_number_1_based": 258,
+                "residue_index_0_based": 257,
+                "minimum_heavy_atom_distance_angstrom": 6.889
+              },
+              {
+                "residue_number_1_based": 259,
+                "residue_index_0_based": 258,
+                "minimum_heavy_atom_distance_angstrom": 7.988
+              },
+              {
+                "residue_number_1_based": 286,
+                "residue_index_0_based": 285,
+                "minimum_heavy_atom_distance_angstrom": 7.139
+              },
+              {
+                "residue_number_1_based": 287,
+                "residue_index_0_based": 286,
+                "minimum_heavy_atom_distance_angstrom": 6.621
+              },
+              {
+                "residue_number_1_based": 289,
+                "residue_index_0_based": 288,
+                "minimum_heavy_atom_distance_angstrom": 7.805
+              },
+              {
+                "residue_number_1_based": 291,
+                "residue_index_0_based": 290,
+                "minimum_heavy_atom_distance_angstrom": 6.457
+              },
+              {
+                "residue_number_1_based": 292,
+                "residue_index_0_based": 291,
+                "minimum_heavy_atom_distance_angstrom": 3.344
+              },
+              {
+                "residue_number_1_based": 293,
+                "residue_index_0_based": 292,
+                "minimum_heavy_atom_distance_angstrom": 7.579
+              },
+              {
+                "residue_number_1_based": 310,
+                "residue_index_0_based": 309,
+                "minimum_heavy_atom_distance_angstrom": 7.809
+              },
+              {
+                "residue_number_1_based": 311,
+                "residue_index_0_based": 310,
+                "minimum_heavy_atom_distance_angstrom": 7.058
+              },
+              {
+                "residue_number_1_based": 312,
+                "residue_index_0_based": 311,
+                "minimum_heavy_atom_distance_angstrom": 3.56
+              },
+              {
+                "residue_number_1_based": 313,
+                "residue_index_0_based": 312,
+                "minimum_heavy_atom_distance_angstrom": 3.195
+              },
+              {
+                "residue_number_1_based": 314,
+                "residue_index_0_based": 313,
+                "minimum_heavy_atom_distance_angstrom": 3.488
+              },
+              {
+                "residue_number_1_based": 315,
+                "residue_index_0_based": 314,
+                "minimum_heavy_atom_distance_angstrom": 4.112
+              },
+              {
+                "residue_number_1_based": 316,
+                "residue_index_0_based": 315,
+                "minimum_heavy_atom_distance_angstrom": 6.137
+              },
+              {
+                "residue_number_1_based": 338,
+                "residue_index_0_based": 337,
+                "minimum_heavy_atom_distance_angstrom": 6.03
+              },
+              {
+                "residue_number_1_based": 339,
+                "residue_index_0_based": 338,
+                "minimum_heavy_atom_distance_angstrom": 3.644
+              },
+              {
+                "residue_number_1_based": 340,
+                "residue_index_0_based": 339,
+                "minimum_heavy_atom_distance_angstrom": 3.612
+              },
+              {
+                "residue_number_1_based": 341,
+                "residue_index_0_based": 340,
+                "minimum_heavy_atom_distance_angstrom": 3.347
+              },
+              {
+                "residue_number_1_based": 342,
+                "residue_index_0_based": 341,
+                "minimum_heavy_atom_distance_angstrom": 3.611
+              },
+              {
+                "residue_number_1_based": 343,
+                "residue_index_0_based": 342,
+                "minimum_heavy_atom_distance_angstrom": 3.321
+              },
+              {
+                "residue_number_1_based": 344,
+                "residue_index_0_based": 343,
+                "minimum_heavy_atom_distance_angstrom": 3.126
+              },
+              {
+                "residue_number_1_based": 345,
+                "residue_index_0_based": 344,
+                "minimum_heavy_atom_distance_angstrom": 5.118
+              },
+              {
+                "residue_number_1_based": 348,
+                "residue_index_0_based": 347,
+                "minimum_heavy_atom_distance_angstrom": 6.906
+              },
+              {
+                "residue_number_1_based": 349,
+                "residue_index_0_based": 348,
+                "minimum_heavy_atom_distance_angstrom": 7.787
+              },
+              {
+                "residue_number_1_based": 352,
+                "residue_index_0_based": 351,
+                "minimum_heavy_atom_distance_angstrom": 6.311
+              },
+              {
+                "residue_number_1_based": 375,
+                "residue_index_0_based": 374,
+                "minimum_heavy_atom_distance_angstrom": 4.517
+              },
+              {
+                "residue_number_1_based": 378,
+                "residue_index_0_based": 377,
+                "minimum_heavy_atom_distance_angstrom": 7.715
+              },
+              {
+                "residue_number_1_based": 379,
+                "residue_index_0_based": 378,
+                "minimum_heavy_atom_distance_angstrom": 7.042
+              },
+              {
+                "residue_number_1_based": 382,
+                "residue_index_0_based": 381,
+                "minimum_heavy_atom_distance_angstrom": 7.011
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "auxiliary_3pg_subsite": {
+    "role": "Catalytic context; not required as a direct ligand-contact region",
+    "residue_indices_0_based": [
+      23,
+      25,
+      62,
+      64,
+      122,
+      128,
+      166,
+      167,
+      169,
+      170,
+      172
+    ],
+    "residue_numbers_1_based": [
+      24,
+      26,
+      63,
+      65,
+      123,
+      129,
+      167,
+      168,
+      170,
+      171,
+      173
+    ],
+    "residue_count": 11
+  },
+  "template_ensemble": [
+    "/Users/akshay/Code/Drug-Target/data/structures/cache7/PGK2_cmp21.pdb",
+    "/Users/akshay/Code/Drug-Target/data/structures/cache7/PGK2_cmp47.pdb"
+  ],
+  "limitations": [
+    "Contact sets are coordinate-derived neighborhoods, not energetic interactions.",
+    "The 8 A shell is intended for protein context, not unrestricted direct ligand edges."
+  ]
+}
